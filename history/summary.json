@@ -4,10 +4,10 @@
     "url": "https://lisk.web3edu.me/",
     "icon": "https://icons.duckduckgo.com/ip3/lisk.web3edu.me.ico",
     "slug": "web3-ide",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 528,
@@ -15,14 +15,16 @@
     "timeWeek": 519,
     "timeMonth": 519,
     "timeYear": 528,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 1
+    }
   },
   {
     "name": "Web3 IDE API",
     "url": "https://lisk.web3edu.me/api/users/hello/",
     "icon": "https://icons.duckduckgo.com/ip3/lisk.web3edu.me.ico",
     "slug": "web3-ide-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 149,
     "timeMonth": 147,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   }
 ]
